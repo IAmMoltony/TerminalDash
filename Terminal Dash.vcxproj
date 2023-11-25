@@ -146,6 +146,7 @@
     <ClCompile Include="Console.cpp" />
     <ClCompile Include="Player.cpp" />
     <ClCompile Include="Spike.cpp" />
+    <ClCompile Include="Portal.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Block.h" />
@@ -153,6 +154,7 @@
     <ClInclude Include="levels\rapidxml.hpp" />
     <ClInclude Include="Player.h" />
     <ClInclude Include="Spike.h" />
+    <ClInclude Include="Portal.h" />
   </ItemGroup>
   <ItemGroup>
     <Xml Include="levels\StereoMadness.xml" />
