@@ -17,3 +17,8 @@ The game was only designed to run on Windows. Sorry, my Linux friends. (you can 
 
 - Windows (Windows 10 or higher recommended)
 - Visual C++
+
+## Building
+
+You should use Visual Studio to build the game. I think I used Visual Studio 2019 to make this.
+
