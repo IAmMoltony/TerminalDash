@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<level>
+	<spike x="10" y="1" />
+	<spike x="23" y="1" />
+	<spike x="24" y="1" />
+	<spike x="38" y="1" />
+	<spike x="40" y="1" />
+	<block x="32" y="1" />
+	<block x="33" y="1" />
+	<block x="34" y="1" />
+	<block x="35" y="1" />
+	<block x="36" y="1" />
+	<block x="36" y="2" />
+	<block x="37" y="2" />
+	<block x="38" y="2" />
+	<block x="39" y="2" />
+	<block x="40" y="2" />
+	<block x="41" y="2" />
+	<block x="42" y="2" />
+	<block x="42" y="1" />
+	<block x="43" y="1" />
+	<block x="44" y="1" />
+	<block x="46" y="1" />
+	<block x="45" y="1" />
+	<block x="50" y="1" />
+	<block x="50" y="2" />
+	<block x="51" y="2" />
+	<block x="52" y="2" />
+	<block x="53" y="2" />
+	<block x="54" y="2" />
+	<block x="55" y="2" />
+	<block x="56" y="2" />
+	<block x="57" y="2" />
+	<block x="57" y="1" />
+	<block x="56" y="1" />
+	<block x="55" y="1" />
+	<block x="54" y="1" />
+	<block x="53" y="1" />
+	<block x="52" y="1" />
+	<block x="51" y="1" />
+	<block x="37" y="1" slab="true" />
+	<block x="39" y="1" slab="true" />
+	<block x="41" y="1" slab="true" />
+</level>
