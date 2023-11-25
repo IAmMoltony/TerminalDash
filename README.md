@@ -12,3 +12,8 @@ The game was only designed to run on Windows. Sorry, my Linux friends. (you can 
 - Runs in your terminal
 - Sounds
 - Level editor
+
+## Requirements
+
+- Windows (Windows 10 or higher recommended)
+- Visual C++
